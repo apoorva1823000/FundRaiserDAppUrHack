@@ -20,3 +20,5 @@ Let's say there are three requests :
 3. Accident support for finance
 
 and let's say there are 4 contributors. 3 of them vote for the request 3 and 1 votes for the cause 1. So as per the condition set in the solidity program the request 3 will be funded the crowd pool collected money. And that request is funded by manager only.
+
+Visit this youtube link to watch the live functioning [Youtube Live Demo](https://youtu.be/4H6sbrRks7c)
